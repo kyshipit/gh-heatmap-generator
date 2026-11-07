@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// SPDX-FileCopyrightText: 2026 kyshipit
+
 document.addEventListener('DOMContentLoaded', () => {
     const yearSelect = document.getElementById('yearInput');
     const heatmap = document.getElementById('heatmap');
